@@ -32,6 +32,8 @@ G1. [How to create a GitHub account](https://www.youtube.com/watch?v=ezxRcdJ8glM
 G2.1 [Connecting to GitHub with SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 G2.2 [Connecting to GitHub with SSH video](https://www.youtube.com/watch?v=nQDFBd5NFA8)
+
+G2.2 [How to use GitHub Desktop video](https://www.youtube.com/watch?v=D_JffotBaRo)
 *** 
 
 ## Intermediate (_Level2_)
